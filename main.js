@@ -12,4 +12,6 @@ console.log(sub(994, 79));
 // git log
 // git commit id
 // git checkout master
-// git checkout -b branch
+// git checkout -b branchname - to create a new branch
+// git checkout branchname - to switch to another branch
+//git merge branchname - to merge a branch to another
