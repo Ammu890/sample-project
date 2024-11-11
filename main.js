@@ -1,9 +1,9 @@
 const sum = require('./index');
-const sub = require('./index');
+const substraction= require('./index');
 const multy = require('./index');
 
 console.log(sum(255, 466));
-console.log(sub(589, 245));
+console.log(substraction(589, 245));
 console.log(sub(994, 79));
 
 // git status - to check current status
