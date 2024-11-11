@@ -7,6 +7,13 @@ const sub = (fNum, sNum) => {
 };
 
 
+const multy = (fNum, sNum) => {
+    return fNum  * sNum
+};
+
+
+
 
 module.exports = sum;
 module.exports = sub;
+module.exports = multy;
